@@ -1,0 +1,99 @@
+@media screen and (min-width: 320px) and (max-width: 515px) {
+    h1 {
+        font-size: 5vw !important;
+    }
+    .score-panel {
+        width: 70% !important;
+    }
+    .score-panel .fa {
+        font-size: 4vw !important;
+    }
+    .moves-text {
+        margin-left: 15% !important;
+        font-size: 4vw !important;
+    }
+    .deck {
+        width: 90% !important;
+    }
+    .card {
+        width: 80px !important;
+    }
+    #game-modal {
+        width: 85%;
+    }
+}
+
+@media screen and (min-width: 516px) and (max-width: 598px) {
+    h1 {
+        font-size: 5vw !important;
+    }
+    .score-panel {
+        width: 70% !important;
+    }
+    .score-panel .fa {
+        font-size: 4vw !important;
+    }
+    .moves-text {
+        margin-left: 15% !important;
+        font-size: 4vw !important;
+    }
+    .deck {
+        width: 90% !important;
+    }
+    .card {
+        width: 90px !important;
+    }
+    #game-modal {
+        width: 85%;
+    }
+}
+
+@media screen and (min-width: 599px) and (max-width: 709px) {
+    h1 {
+        font-size: 5vw !important;
+    }
+    .score-panel {
+        width: 70% !important;
+    }
+    .score-panel .fa {
+        font-size: 4vw !important;
+    }
+    .moves-text {
+        margin-left: 15% !important;
+        font-size: 4vw !important;
+    }
+    .deck {
+        width: 90% !important;
+    }
+    .card {
+        width: 105px !important;
+    }
+    #game-modal {
+        width: 85%;
+    }
+}
+
+@media screen and (min-width: 710px) and (max-width: 750px) {
+    h1 {
+        font-size: 5vw !important;
+    }
+    .score-panel {
+        width: 70% !important;
+    }
+    .score-panel .fa {
+        font-size: 4vw !important;
+    }
+    .moves-text {
+        margin-left: 15% !important;
+        font-size: 4vw !important;
+    }
+    .deck {
+        width: 90% !important;
+    }
+    .card {
+        width: 125px !important;
+    }
+    #game-modal {
+        width: 85%;
+    }
+}
