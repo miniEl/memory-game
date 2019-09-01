@@ -1,6 +1,6 @@
 # Memory Game Project
 
-This a simple memory game.
+This is a simple memory game made with javascript.
 
 ## Table of Contents
 
