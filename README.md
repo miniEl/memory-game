@@ -23,4 +23,7 @@ Match all the similar cards relying on your memory, with fewer moves in the shor
 
 - Starter files are provided by [UDACITY](https://www.udacity.com/)
 - [Font Awesome](https://fontawesome.com/) symbols.
-- Animation source from [Animate.css](https://raw.githubusercontent.com/daneden/animate.css/master/animate.css)
+- Animation source from [Animate.css](https://raw.githubusercontent.com/daneden/animate.css/master/animate.css),
+  [CSS-TRICKS](https://css-tricks.com/snippets/css/shake-css-keyframe-animation/)
+- Shuffle function from [Stackoverflow](http://stackoverflow.com/a/2450976)
+- General search lookups on [w3schools.com](https://www.w3schools.com/)
