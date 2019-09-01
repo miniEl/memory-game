@@ -23,7 +23,7 @@
     }
 }
 
-@media screen and (min-width: 516px) and (max-width: 598px) {
+@media screen and (min-width: 516px) and (max-width: 571px) {
     h1 {
         font-size: 5vw !important;
     }
@@ -48,7 +48,7 @@
     }
 }
 
-@media screen and (min-width: 599px) and (max-width: 709px) {
+@media screen and (min-width: 572px) and (max-width: 654px) {
     h1 {
         font-size: 5vw !important;
     }
@@ -73,7 +73,7 @@
     }
 }
 
-@media screen and (min-width: 710px) and (max-width: 750px) {
+@media screen and (min-width: 655px) and (max-width: 750px) {
     h1 {
         font-size: 5vw !important;
     }
