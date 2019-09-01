@@ -14,9 +14,11 @@
     }
     .deck {
         width: 90% !important;
+        min-height: 540px;
     }
     .card {
-        width: 80px !important;
+        width: calc((100% - 20px) / 4) !important;
+        height: 95px !important;
     }
     #game-modal {
         width: 85%;
