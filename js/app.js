@@ -1,8 +1,8 @@
-strict();
+strictMode();
 
 //Using strict mode to prevent the user from manuplating any variables
 
-function strict() {
+function strictMode() {
 
     // Creating a list to hold the cards
     let cardsArr = [
