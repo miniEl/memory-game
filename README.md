@@ -19,7 +19,7 @@ Match all the similar cards relying on your memory, with fewer moves in the shor
 * You win by matching all the cards.
 * The more moves you take, the lesser stars you earn.
 
-## Contributing
+## Dependencies
 
 - Starter files are provided by [UDACITY](https://www.udacity.com/)
 - [Font Awesome](https://fontawesome.com/) symbols.
