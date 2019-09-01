@@ -6,7 +6,7 @@ This is a simple memory game made with javascript.
 
 * [Challange](#challange)
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Dependencies](#dependencies)
 
 ## Challange
 
